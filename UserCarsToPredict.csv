@@ -1,0 +1,11 @@
+car,brand,model,model_year,milage,fuel_type,ext_col,accident,clean_title,concat,type,miles_per_gallon,premium,msrp,collection_car,liters,horsepower,turbo,cylinders,transmission
+5000,Tesla,Model Y Long Range,2021,"49,252 mi.",,Blue,None reported,,2021TeslaModel Y Long Range,SUV,131,1,53990,0,,,0,,A
+5001,audi,S7 4.0T Premium Plus,2017,"52,500 mi.",Gasoline,Gray,None reported,Yes,2017AudiS7 4.0T Premium Plus,Sedan,22,1,82500,0,4,450,0,8,A
+5002,Mazda,CX-7 Sport,2009,"113,000 mi.",Gasoline,Gray,None reported,Yes,2009MazdaCX-7 Sport,SUV,20,0,24000,0,2.3,244,0,4,A
+5003,Tesla,Model X Long Range,2022,"7,500 mi.",,Silver,None reported,Yes,2022TeslaModel X Long Range,SUV,100,1,94990,0,,670,0,,A
+5004,Ford,Explorer ST,2022,"10,500 mi.",Gasoline,Black,,,2022FordExplorer ST,SUV,18,1,60000,0,3,400,0,6,A
+5005,Land,Rover Range Rover 5.0L Supercharged Autobiography LWB,2018,"36,632 mi.",Gasoline,Blue,,,2018LandRover Range Rover 5.0L Supercharged Autobiography LWB,SUV,18,1,200000,1,5,518,0,8,A
+5006,Ford,Ranger Edge SuperCab,2004,"110,000 mi.",Gasoline,White,At least 1 accident or damage reported,Yes,2004FordRanger Edge SuperCab,Pickup,20,0,20000,0,3,148,0,6,A
+5007,audi,S4 3.0T Premium Plus,2020,"23,823 mi.",Gasoline,Red,None reported,Yes,2020AudiS4 3.0T Premium Plus,Sedan,24,1,61900,0,3,,1,6,A
+5008,Mercedes-Benz,C-Class C 300 4MATIC Luxury,2011,"95,500 mi.",Gasoline,Black,At least 1 accident or damage reported,Yes,2011Mercedes-BenzC-Class C 300 4MATIC Luxury,Sedan,20,1,35000,0,3,228,0,6,A
+5009,Nissan,Quest SL,2011,"185,000 mi.",Gasoline,White,At least 1 accident or damage reported,Yes,2011NissanQuest SL,Minivan,19,0,32990,0,3.5,260,0,6,A
